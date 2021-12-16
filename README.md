@@ -20,7 +20,10 @@ Users can watch demo videos as well as buy complete courses. Apart form that qui
 * Android SDK 21-31
 
 # Preview
-![](https://github.com/Himanshu328/Online-Learning/blob/master/front.jpg)
-![](https://github.com/Himanshu328/Online-Learning/blob/master/login.jpg)
-![](https://github.com/Himanshu328/Online-Learning/blob/master/home.jpg)
-![](https://github.com/Himanshu328/Online-Learning/blob/master/side.jpg)
+
+<p float="left">
+<img src="https://github.com/Himanshu328/Online-Learning/blob/master/front.jpg" alt="alt text" width="350" height="500">
+<img src="https://github.com/Himanshu328/Online-Learning/blob/master/login.jpg" alt="alt text" width="350" height="500">
+<img src="https://github.com/Himanshu328/Online-Learning/blob/master/home.jpg" alt="alt text" width="350" height="500">
+<img src="https://github.com/Himanshu328/Online-Learning/blob/master/side.jpg" alt="alt text" width="350" height="500">
+</p>

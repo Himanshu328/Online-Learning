@@ -22,8 +22,8 @@ Users can watch demo videos as well as buy complete courses. Apart form that qui
 # Preview
 
 <p float="left">
-<img src="https://github.com/Himanshu328/Online-Learning/blob/master/front.jpg" alt="alt text" width="350" height="500">
-<img src="https://github.com/Himanshu328/Online-Learning/blob/master/login.jpg" alt="alt text" width="350" height="500">
-<img src="https://github.com/Himanshu328/Online-Learning/blob/master/home.jpg" alt="alt text" width="350" height="500">
-<img src="https://github.com/Himanshu328/Online-Learning/blob/master/side.jpg" alt="alt text" width="350" height="500">
+<img src="https://github.com/Himanshu328/Online-Learning/blob/master/front.jpg" alt="alt text" width="300" height="500">
+<img src="https://github.com/Himanshu328/Online-Learning/blob/master/login.jpg" alt="alt text" width="300" height="500">
+<img src="https://github.com/Himanshu328/Online-Learning/blob/master/home.jpg" alt="alt text" width="300" height="500">
+<img src="https://github.com/Himanshu328/Online-Learning/blob/master/side.jpg" alt="alt text" width="300" height="500">
 </p>

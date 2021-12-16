@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/editProfileActivity"
+    android:background="@drawable/loginform"
+    tools:context=".ui.Profile.EditProfileActivity">
+
+    <TextView
+        android:id="@+id/editProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/amethysta"
+        android:text="Edit Profile"
+        android:textColor="@color/blue"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout9"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="150dp"
+        app:boxStrokeWidth="0dp"
+        app:boxStrokeWidthFocused="0dp"
+        android:enabled="false"
+        android:textColorHint="@color/blue"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <EditText
+            android:id="@+id/editTextProfileName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="User Name"
+            android:drawablePadding="5dp"
+            android:textColor="?android:textColorPrimary"
+            android:drawableTint="@color/blue"
+            android:drawableStart="@drawable/ic_profile"
+            android:background="@drawable/edit_text2"
+            android:inputType="textPersonName" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout10"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="10dp"
+        app:boxStrokeWidth="0dp"
+        app:boxStrokeWidthFocused="0dp"
+        android:textColorHint="@color/blue"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout9">
+
+        <EditText
+            android:id="@+id/editTextProfileEmail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Email Address"
+            android:textColor="?android:textColorPrimary"
+            android:drawablePadding="5dp"
+            android:drawableTint="@color/blue"
+            android:drawableStart="@drawable/ic_email"
+            android:background="@drawable/edit_text2"
+            android:inputType="textEmailAddress" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout11"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="10dp"
+        app:boxStrokeWidth="0dp"
+        app:boxStrokeWidthFocused="0dp"
+        android:textColorHint="@color/blue"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout10">
+
+        <EditText
+            android:id="@+id/editTextProfileMobile"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Mobile Number"
+            android:drawablePadding="5dp"
+            android:textColor="?android:textColorPrimary"
+            android:drawableTint="@color/blue"
+            android:drawableStart="@drawable/ic_phone"
+            android:background="@drawable/edit_text2"
+            android:inputType="phone" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/editProfileBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="submit"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout11" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Himanshu/.gradle/caches/transforms-3/785a083352a6e3b2adf13af51fc84092/transformed/jetified-exoplayer-ui-2.7.3/res/layout/exo_playback_control_view.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/.gradle/caches/transforms-3/785a083352a6e3b2adf13af51fc84092/transformed/jetified-exoplayer-ui-2.7.3/res/layout/exo_simple_player_view.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/custom_controles.xml" value="0.2203125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/edit_text2.xml" value="0.2203125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/ic_about.xml" value="0.1125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/ic_baseline_bookmarks_24.xml" value="0.1125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/ic_camera.xml" value="0.1125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/ic_fullscreen_exit.xml" value="0.1125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/ic_my_course.xml" value="0.1125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/ic_right.xml" value="0.1140625" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/ic_settings.xml" value="0.1125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/ic_speed.xml" value="0.1125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/ic_visibility.xml" value="0.1125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/search.xml" value="0.1140625" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/search_icon.xml" value="0.2203125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/secured_by_bg.xml" value="0.1125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/seekbar_thumb.xml" value="0.2203125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/drawable/side_nav_bar.xml" value="0.1125" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/font/.xml" value="0.1265625" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/font/abhaya_libre.xml" value="0.1265625" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/font/amethysta.xml" value="0.1265625" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_edit_profile.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_notes.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_paid_lesson.xml" value="0.17" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_payment2.xml" value="0.14221014492753623" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_quiz2.xml" value="0.17" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_quiz_finish.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_splash_screen.xml" value="0.21" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_start_quiz.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_vedio.xml" value="0.12047101449275362" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/activity_video.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/content_main.xml" value="0.22" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/courses_recycle_view.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/custom_controls.xml" value="0.10733695652173914" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/demo_recycle_veiw.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/fragment_feedback.xml" value="0.15" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/fragment_help.xml" value="0.25" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/fragment_my_courses.xml" value="0.15" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/fragment_notification.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/fragment_quiz.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/fragment_store.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/help_recycler_view.xml" value="0.18" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/main_quiz.xml" value="0.21" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/my_courses_recycle_view.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/nav_header_main.xml" value="0.18" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/paid_recycler_view.xml" value="0.18" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/profile_recycler_view.xml" value="0.1" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/quiz_recycle_view.xml" value="0.21" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/track_selection_dialog.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/ustom_controls.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/layout/vedio_custom_controls.xml" value="0.24652455977757182" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/menu/activity_main_drawer.xml" value="0.22" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/menu/menu_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1140625" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/SGNRClasses/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

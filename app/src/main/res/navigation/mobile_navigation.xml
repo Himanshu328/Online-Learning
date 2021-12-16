@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.sgnr.sgnrclasses.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_my_courses"
+        android:name="com.sgnr.sgnrclasses.ui.mycourses.MyCoursesFragment"
+        android:label="My Courses"
+        tools:layout="@layout/fragment_my_courses" />
+
+    <fragment
+        android:id="@+id/nav_store"
+        android:name="com.sgnr.sgnrclasses.ui.Store.StoreFragment"
+        android:label="Store"
+        tools:layout="@layout/fragment_store"/>
+
+    <fragment
+        android:id="@+id/nav_quiz"
+        android:name="com.sgnr.sgnrclasses.ui.Quiz.QuizFragment"
+        android:label="Quiz"
+        tools:layout="@layout/fragment_quiz"/>
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.sgnr.sgnrclasses.ui.Profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_Help"
+        android:name="com.sgnr.sgnrclasses.ui.Help.HelpFragment"
+        android:label="Help"
+        tools:layout="@layout/fragment_help" />
+
+    <activity
+        android:id="@+id/nav_exit"
+        android:name="com.sgnr.sgnrclasses.ui.Logout.LogoutUserActivity"
+        android:label="Exit"
+        tools:layout="@layout/activity_exit"/>
+</navigation>
